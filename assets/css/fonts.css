@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'Futura PT';
+  font-style: normal;
+  src: local('Futura PT'),
+  url(/assets/fonts/Futura\ PT.woff2) format('woff2'),
+  url(/assets/fonts/Futura\ PT.woff) format('woff'),
+  url(/assets/fonts/Futura\ PT.ttf) format('ttf'),
+  url(/assets/fonts/Futura\ PT.eot) format('eot');
+}
+@font-face {
+  font-family: 'PlayfairDisplay';
+  font-weight: 400;
+  font-style: normal;
+  src: local('PlayfairDisplay'),
+  url(/assets/fonts/PlayfairDisplay-Regular.woff2) format('woff2'),
+  url(/assets/fonts/PlayfairDisplay-Regular.woff) format('woff'),
+  url(/assets/fonts/PlayfairDisplay-Regular.ttf) format('ttf'),
+  url(/assets/fonts/PlayfairDisplay-Regular.eot) format('eot');
+}
+@font-face {
+  font-family: 'Proxima Nova';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Proxima Nova'),
+  url(/assets/fonts/Proxima-Nova-Regular.woff2) format('woff2'),
+  url(/assets/fonts/Proxima-Nova-Regular.woff) format('woff'),
+  url(/assets/fonts/Proxima-Nova-Regular.ttf) format('ttf'),
+  url(/assets/fonts/Proxima-Nova-Regular.eot) format('eot');
+}
+@font-face {
+  font-family: 'Proxima Nova';
+  font-weight: 400;
+  font-style: italic;
+  src: local('Proxima Nova'),
+  url(/assets/fonts/Proxima-Nova-Regular-Italic.woff2) format('woff2'),
+  url(/assets/fonts/Proxima-Nova-Regular-Italic.woff) format('woff'),
+  url(/assets/fonts/Proxima-Nova-Regular-Italic.ttf) format('ttf'),
+  url(/assets/fonts/Proxima-Nova-Regular-Italic.eot) format('eot');
+}
+@font-face {
+  font-family: 'Georgia';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Georgia'),
+  url(/assets/fonts/Georgia.woff2) format('woff2'),
+  url(/assets/fonts/Georgia.woff) format('woff'),
+  url(/assets/fonts/Georgia.ttf) format('ttf'),
+  url(/assets/fonts/Georgia.eot) format('eot');
+}
+@font-face {
+  font-family: 'Georgia italic';
+  font-weight: 400;
+  font-style: italic;
+  src: local('Georgia italic'),
+  url(/assets/fonts/Georgia-Italic.woff2) format('woff2'),
+  url(/assets/fonts/Georgia-Italic.woff) format('woff'),
+  url(/assets/fonts/Georgia-Italic.ttf) format('ttf'),
+  url(/assets/fonts/Georgia-Italic.eot) format('eot');
+}
